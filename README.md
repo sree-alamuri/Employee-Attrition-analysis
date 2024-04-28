@@ -2,8 +2,8 @@
 <P> Employee attrition refers to the natural process by which employees leave an organization, either voluntarily or involuntarily. 
 It is an important metric for organizations to track as it can have significant implications for business operations and performance.</P>
 <h2>Tools used</h2>
-<p>Data Cleaning- EXCEL
-*Data visualization- Power BI</p>
+<p>Data Cleaning- EXCEL</p>
+<p>Data visualization- Power BI</p>
 <h3>Findings</h3>
 <P> Department with the highest attrition rate is Research & Development at 453 employees.</P>
 <p>Higher attrition rate for male employees (62.03%) compared to female employees (37.97%)
