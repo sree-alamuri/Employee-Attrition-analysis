@@ -5,13 +5,13 @@ It is an important metric for organizations to track as it can have significant 
 <p>Data Cleaning- EXCEL
 Data visualization- Power BI</p>
 <h3>Findings</h3>
-<p>Department with the highest attrition rate is Research & Development at 453 employees.
-Higher attrition rate for male employees (62.03%) compared to female employees (37.97%)
+1. Department with the highest attrition rate is Research & Development at 453 employees.
+2. Higher attrition rate for male employees (62.03%) compared to female employees (37.97%)
 This could be due to potential factors, such as career advancement opportunities, work-life balance, or unconscious bias.
-Higher attrition for "Travel Rarely" employees (468) compared to "Travel Frequently" (207) and "Non-Travel" (36)
+3. Higher attrition for "Travel Rarely" employees (468) compared to "Travel Frequently" (207) and "Non-Travel" (36)
 Attrition rates for different job roles, such as Sales Executives, Research Scientists, and Healthcare Representatives.
-Attrition rates for single (50.00%), married (35.48%), and divorced (13.92%) employees.
-Most of the employees who left the company are from life sciences and medicine educational field
+4. Attrition rates for single (50.00%), married (35.48%), and divorced (13.92%) employees.
+5. Most of the employees who left the company are from life sciences and medicine educational field
 <H4>Conclusion</H4>
 </p>Employee attrition could be due to various factors such as work life balance, salary hike and job satisfaction.
 In order to reduce the attrition rate the company should ensure that employees have a good work life balance  and also observe the educational field while hiring.
